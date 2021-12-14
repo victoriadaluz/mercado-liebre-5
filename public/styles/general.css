@@ -1,0 +1,23 @@
+/***********/
+/* General */
+/***********/
+
+* {
+    margin: 0;
+    padding: 0;
+    }
+    
+    a {
+        color: var(--color-Negro);
+        text-decoration: none;
+    }
+    
+    body {
+        font-family: var(--font-roboto);
+    }
+    
+    li {
+        list-style: none;
+    }
+    
+    
